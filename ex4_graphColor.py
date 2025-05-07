@@ -1,1 +1,0 @@
-#Comentari desde terminal
